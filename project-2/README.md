@@ -1,6 +1,6 @@
 
 ### Google docs clone
-Google docs is an app that lets you create and store documents online. It also lets you collaborate with other people on the same document.
+Google docs is an app that lets you create and store documents online.It also lets you collaborate with other people on the same document.
 
 The basic function requirements
 - Let the user sign up and login
